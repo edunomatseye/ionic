@@ -1,5 +1,7 @@
 {
   "name": "facebook",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
